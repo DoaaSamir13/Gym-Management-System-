@@ -1,0 +1,24 @@
+c:\users\dell\documents\visual studio 2013\Projects\Gym project\Gym project\bin\Debug\Gym project.exe.config
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Gym project\Gym project\obj\Debug\Gym_project.Form3.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Gym project\Gym project\obj\Debug\Gym_project.Form4.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Gym project\Gym project\obj\Debug\Gym_project.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Gym project\Gym project\obj\Debug\Gym_project.welcome.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Gym project\Gym project\obj\Debug\Gym project.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Gym project\Gym project\bin\Debug\Gym project.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Gym project\Gym project\bin\Debug\Gym project.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Gym project\Gym project\obj\Debug\Gym project.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Gym project\Gym project\obj\Debug\Gym project.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Gym project\Gym project\obj\Debug\Gym_project.cust.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\Gym project\Gym project\obj\Debug\Gym project.csprojResolveAssemblyReference.cache
+C:\Users\Doaa\Desktop\Gym project\Gym project\bin\Debug\Gym project.exe.config
+C:\Users\Doaa\Desktop\Gym project\Gym project\bin\Debug\Gym project.exe
+C:\Users\Doaa\Desktop\Gym project\Gym project\bin\Debug\Gym project.pdb
+C:\Users\Doaa\Desktop\Gym project\Gym project\obj\Debug\Gym project.csprojResolveAssemblyReference.cache
+C:\Users\Doaa\Desktop\Gym project\Gym project\obj\Debug\Gym_project.welcome.resources
+C:\Users\Doaa\Desktop\Gym project\Gym project\obj\Debug\Gym_project.cust.resources
+C:\Users\Doaa\Desktop\Gym project\Gym project\obj\Debug\Gym_project.Form3.resources
+C:\Users\Doaa\Desktop\Gym project\Gym project\obj\Debug\Gym_project.Form4.resources
+C:\Users\Doaa\Desktop\Gym project\Gym project\obj\Debug\Gym_project.Properties.Resources.resources
+C:\Users\Doaa\Desktop\Gym project\Gym project\obj\Debug\Gym project.csproj.GenerateResource.Cache
+C:\Users\Doaa\Desktop\Gym project\Gym project\obj\Debug\Gym project.exe
+C:\Users\Doaa\Desktop\Gym project\Gym project\obj\Debug\Gym project.pdb
